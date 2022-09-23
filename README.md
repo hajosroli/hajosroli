@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hajosroli
 - 👀 I’m interested in Sports and fishing.
 - 🌱 I’m currently learning coding.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: hajosr7@gmail.com
 
 <!---
